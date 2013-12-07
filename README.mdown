@@ -3,4 +3,4 @@ CSS and JavaScript Experiments
 
 Experiment first. Then execute.
 
-Code in this repo is based on work by [MarcoFolio.net](http://marcofolio.net) and [Pictonic.com](http://pictonic.com).
+Code in this repo is based on work by [MarcoFolio.net](http://marcofolio.net) and [Pictonic.co](https://pictonic.co).
